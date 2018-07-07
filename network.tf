@@ -40,4 +40,3 @@ resource "aws_security_group" "TF_SG" {
   }
 
 }
-nitzan
